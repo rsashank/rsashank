@@ -4,9 +4,9 @@ Computer Science @VIT, Vellore (Graduating 2026)
 ---
 ### My Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rsashank&theme=react&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rsashank&theme=react&border_radius=5)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsashank&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsashank&theme=react&layout=compact)]
 
 
 ---
